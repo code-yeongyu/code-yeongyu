@@ -4,10 +4,10 @@ I'm a programmer who loves solving life issues through my codes.
 I usually worked on **Back-End** projects.
 
 ⚡ Here are some programming languages that I can use:  
-C, **Python**, **Golang**, JS, Java, Dart
+C, **Python**, **Golang**, **JS**, TS, Java, Dart
 
 And here are some skills that I have:  
-Django, Express, Gin, Flutter
+Django, **Express**, Gin, **Flutter**
 
 <!--
 **code-yeongyu/code-yeongyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
