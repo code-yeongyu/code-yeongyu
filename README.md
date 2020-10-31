@@ -1,3 +1,6 @@
+![Github Stats](https://github-readme-stats.vercel.app/api?username=code-yeongyu&show_icons=true)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-yeongyu)
+
 ### Hi 👋
 I'm a programmer who loves solving life issues through my codes.
 
