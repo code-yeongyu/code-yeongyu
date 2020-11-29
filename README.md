@@ -7,7 +7,7 @@ I'm a programmer who loves solving life issues through my codes.
 I usually worked on **Back-End** projects.
 
 ⚡ Here are some programming languages that I can use:  
-C, **Python**, **Golang**, **JS**, TS, Java, Dart
+C, **Python**, **Golang**, **JS**, **TS**, Java, Dart
 
 And here are some skills that I have:  
 Django, **Express**, Gin, **Flutter**
