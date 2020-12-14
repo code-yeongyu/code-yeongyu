@@ -23,16 +23,6 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=code-yeongyu&show_icons=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-yeongyu)
 
-# 🚀 진행한 프로젝트
-
-[프로젝트 목록](https://www.notion.so/89c7b5dbd82647488688277efa14be55)
-
----
-
-# ✏️ 노션 포트폴리오 링크
-
-[노션](https://www.notion.so/yeongyu/08e90ef208de480a9d4e2902615eb27f)
-
 ---
 
 익숙한 프로그래밍 언어:  
