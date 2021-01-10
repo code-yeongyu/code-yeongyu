@@ -25,8 +25,5 @@
 
 ---
 
-익숙한 프로그래밍 언어:  
-C, **Python**, **Golang**, **JS**, **TS**, Java, Dart
-
-프레임워크:  
-Django, Express, Gin, Flutter
+사용 할 수 있는 기술:
+C, Python, Golang, JS, TS, Java, Dart, protobuf, PostgreSQL, MongoDB, Django, Express, Gin, Flutter, mongoose, gRPC, AWS, Docker, REST
