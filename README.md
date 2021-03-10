@@ -19,7 +19,7 @@ Find me on [Notion](https://www.notion.so/yeongyu/08e90ef208de480a9d4e2902615eb2
 - 2020 제 6회 선린톤 동상
 - 2019 제 5회 선린톤 은상
 - 2020 선린 IoT 경진대회 동상
-- 선린인터넷고등학교 정보보호과 웹 개발팀 [Jungvengers](https://github.com/jungvengers) 리더
+- 선린인터넷고등학교 정보보호과 공식 웹 개발팀 [Jungvengers](https://github.com/jungvengers) 리더
 
 ---
 
