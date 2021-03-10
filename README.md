@@ -4,6 +4,8 @@
 
 ![img](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F2e45b556-b0ff-41d0-9df9-41b1b1fb06ef%2F125192660_1659853970862136_2017992241625194370_o.jpg?table=block&id=08e90ef2-08de-480a-9d4e-2902615eb27f&width=3010&userId=354bc423-f349-4897-8e98-181e8dab2fd7&cache=v2)
 
+Find me on [Notion](https://www.notion.so/yeongyu/08e90ef208de480a9d4e2902615eb27f), [Tistory](https://code-yeongyu.tistory.com)
+
 ---
 
 # 🥇경력
@@ -17,6 +19,7 @@
 - 2020 제 6회 선린톤 동상
 - 2019 제 5회 선린톤 은상
 - 2020 선린 IoT 경진대회 동상
+- 선린인터넷고등학교 정보보호과 웹 개발팀 [Jungvengers](https://github.com/jungvengers) 리더
 
 ---
 
