@@ -29,4 +29,4 @@ Find me on [Notion](https://www.notion.so/yeongyu/08e90ef208de480a9d4e2902615eb2
 ---
 
 사용 할 수 있는 기술:
-C, Python, Golang, JS, TS, Java, Dart, protobuf, PostgreSQL, MongoDB, Django, Express, Gin, Flutter, mongoose, gRPC, AWS, Docker, REST
+C, Python, Golang, JS, TS, Java, Dart, protobuf, PostgreSQL, MongoDB, Django, Express, Gin, Flutter, mongoose, gRPC, AWS, Docker, Docker Swarm, REST
