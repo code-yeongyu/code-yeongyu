@@ -1,6 +1,6 @@
-# 쓰임이 많았으면 하는 개발자
+# 소프트웨어로 만드는 영향력.
 
-**연필처럼 다양한 곳에서 유용하게 일하고 싶은 개발자, 김연규입니다.**
+**소프트웨어로 선한 영향력을 만들고 싶은 개발자, 김연규입니다.**
 
 ![img](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F2e45b556-b0ff-41d0-9df9-41b1b1fb06ef%2F125192660_1659853970862136_2017992241625194370_o.jpg?table=block&id=08e90ef2-08de-480a-9d4e-2902615eb27f&width=3010&userId=354bc423-f349-4897-8e98-181e8dab2fd7&cache=v2)
 
