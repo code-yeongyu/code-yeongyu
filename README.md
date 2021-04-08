@@ -2,7 +2,12 @@
 
 **소프트웨어로 선한 영향력을 만들고 싶은 개발자, 김연규입니다.**
 
-![img](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F2e45b556-b0ff-41d0-9df9-41b1b1fb06ef%2F125192660_1659853970862136_2017992241625194370_o.jpg?table=block&id=08e90ef2-08de-480a-9d4e-2902615eb27f&width=3010&userId=354bc423-f349-4897-8e98-181e8dab2fd7&cache=v2)
+<details>
+<summary>프로필 사진</summary>
+
+![profile image](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F2e45b556-b0ff-41d0-9df9-41b1b1fb06ef%2F125192660_1659853970862136_2017992241625194370_o.jpg?table=block&id=08e90ef2-08de-480a-9d4e-2902615eb27f&width=3010&userId=354bc423-f349-4897-8e98-181e8dab2fd7&cache=v2)
+
+</details>
 
 Find me on [Notion](https://www.notion.so/yeongyu/08e90ef208de480a9d4e2902615eb27f), and [Tistory](https://code-yeongyu.tistory.com)
 
@@ -26,14 +31,20 @@ Find me on [Notion](https://www.notion.so/yeongyu/08e90ef208de480a9d4e2902615eb2
 **열심히, 성실히, 꾸준히** 공부하기 위해 노력중입니다. 아래의 wakatime 그래프는 제가 몇시간이나 코딩을 했는지 보여줍니다.  
 제가 게으른지, 성실한지 훔쳐보실래요? 😏  
 
+<details>
+<summary>Wakatime 그래프 훔쳐보기</summary>
+
 ![Wakatime](https://wakatime.com/share/@code_yeongyu/5f740289-1254-494b-a264-806b87209d67.svg)
 
+</details>
+
+
 ---
+
+<details>
+<summary>Github 요약</summary>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=code-yeongyu&show_icons=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-yeongyu)
 
----
-
-사용 할 수 있는 기술:
-C, Python, Golang, JS, TS, Java, Dart, protobuf, PostgreSQL, MongoDB, Django, Express, Gin, Flutter, mongoose, gRPC, AWS, Docker, Docker Swarm, REST
+</details>
