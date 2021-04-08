@@ -23,6 +23,12 @@ Find me on [Notion](https://www.notion.so/yeongyu/08e90ef208de480a9d4e2902615eb2
 
 ---
 
+열심히, 성실히, 꾸준히 공부하기 위해 노력중입니다. 아래의 그래프를 통해 제가 요즘 게으른지 확인하실 수 있어요!
+
+![Wakatime](https://wakatime.com/share/@code_yeongyu/5f740289-1254-494b-a264-806b87209d67.svg)
+
+---
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=code-yeongyu&show_icons=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-yeongyu)
 
