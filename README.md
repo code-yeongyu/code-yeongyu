@@ -22,14 +22,6 @@
 - 2020 선린 IoT 경진대회 동상
 - **선린인터넷고등학교 정보보호과 공식 웹 개발팀 [Jungvengers](https://github.com/jungvengers) 리더**
 
----
-
-**열심히, 성실히, 꾸준히** 공부하기 위해 노력중입니다. 아래의 wakatime 그래프는 제가 몇시간이나 코딩을 했는지 보여줍니다.  
-제가 게으른지, 성실한지 훔쳐보실래요? 😏  
-
-
-![Wakatime](https://wakatime.com/share/@code_yeongyu/5f740289-1254-494b-a264-806b87209d67.svg)
-
 
 ---
 
@@ -58,13 +50,6 @@
 
 - **The leader of [Jungvengers](https://github.com/jungvengers)**
   - We make the softwares for our school.
-
----
-
-I put effort to work hard and continuously. Watch the graph below! 
-
-
-![Wakatime](https://wakatime.com/share/@code_yeongyu/5f740289-1254-494b-a264-806b87209d67.svg)
 
 
 ---
