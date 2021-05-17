@@ -1,5 +1,5 @@
 **일상에 스며든 소프트웨어를 만들고 싶은 개발자, 김연규입니다.**  
-**I'm YeonGyu Kim. I want to influence people with convenient software, and the code I wrote.**
+**I'm YeonGyu Kim. I want to make softwares which soaked in people's lives.**
 
 <details>
 <summary>한국어 프로필</summary>
