@@ -1,8 +1,7 @@
-**일상에 스며든 소프트웨어를 만들고 싶은 개발자, 김연규입니다.**  
-**I'm YeonGyu Kim. I want to make softwares which soaked in people's lives.**
+# 일상에 스며든 소프트웨어를 만들고 싶은 개발자, 김연규입니다.
 
 <details>
-<summary>한국어 프로필</summary>
+<summary>프로필</summary>
 
 ![profile image](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F2e45b556-b0ff-41d0-9df9-41b1b1fb06ef%2F125192660_1659853970862136_2017992241625194370_o.jpg?table=block&id=08e90ef2-08de-480a-9d4e-2902615eb27f&width=3010&userId=354bc423-f349-4897-8e98-181e8dab2fd7&cache=v2)
 
@@ -28,33 +27,4 @@
 
 </details>
 
-<details>
-<summary>Profile</summary>
-
-![profile image](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F2e45b556-b0ff-41d0-9df9-41b1b1fb06ef%2F125192660_1659853970862136_2017992241625194370_o.jpg?table=block&id=08e90ef2-08de-480a-9d4e-2902615eb27f&width=3010&userId=354bc423-f349-4897-8e98-181e8dab2fd7&cache=v2)
-
-# 🥇Careers
-
-- Senior @ Sunrint High. Information Security Division 
-- **Youngest in Software Maestro 11th supervised by the Ministry of Science and Technology Information and Communication**
-  - Lead the 'cafe servi' project, the automated cafe service platform with the autonomous driving serving bot
-- Vice leader of HighSchool's first hacking club Layer7 19th
-- Encouragement Award from 19th SK Appjam
-- Excellence Award from 2019 Specialized HighSchool Students White Hacker Contest
-- Silver Award from 5th Sunrinthon
-- Bronze Award from 6th Sunrinthon
-- Bronze Award from 2020 Sunrin IoT Contest
-
-- **The leader of [Jungvengers](https://github.com/jungvengers)**
-  - We make the softwares for our school.
-
-
----
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=code-yeongyu&show_icons=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-yeongyu)
-
-
-</details>
-
-Find me on [Notion](https://www.notion.so/yeongyu/08e90ef208de480a9d4e2902615eb27f), and [Tistory](https://code-yeongyu.tistory.com)
+### 제 [Notion](https://www.notion.so/yeongyu/08e90ef208de480a9d4e2902615eb27f)과 [Tistory](https://code-yeongyu.tistory.com)도 읽어보세요!
