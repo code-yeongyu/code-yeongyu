@@ -28,3 +28,5 @@
 </details>
 
 ### 제 [Notion](https://www.notion.so/yeongyu/08e90ef208de480a9d4e2902615eb27f)과 [Tistory](https://code-yeongyu.tistory.com)도 읽어보세요!
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcode-yeongyu&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=today+%2F+total&edge_flat=false)](https://hits.seeyoufarm.com)
