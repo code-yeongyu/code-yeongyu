@@ -28,7 +28,7 @@
 
 </details>
 
-### 제 [Notion](https://www.notion.so/yeongyu/08e90ef208de480a9d4e2902615eb27f)과 [Tistory](https://code-yeongyu.tistory.com)도 읽어보세요!
+### 제 [Notion](https://www.notion.so/ed0adc6b5344424d9fae1bc3fcc60a80)과 [Tistory](https://code-yeongyu.tistory.com)도 읽어보세요!
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=code-yeongyu&count_private=true&show_icons=true&include_all_commits=true)
 
