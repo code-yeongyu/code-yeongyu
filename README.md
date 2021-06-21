@@ -7,11 +7,6 @@
 - 생각이 막혀있는 것, 존중하지 않는것을 좋아하지 않습니다. 유연하게 생각하며 다른 사람을 존중하려고 하고 있습니다.
 - 지식을 나누는것, 재미있는것을 좋아합니다. 블로그나 생활코딩과 같은 곳에서 즐겁게 활동하며 초심자 분들을 돕고자하고 있습니다.
 
-<details>
-<summary>프로필</summary>
-
-![profile image](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F2e45b556-b0ff-41d0-9df9-41b1b1fb06ef%2F125192660_1659853970862136_2017992241625194370_o.jpg?table=block&id=08e90ef2-08de-480a-9d4e-2902615eb27f&width=3010&userId=354bc423-f349-4897-8e98-181e8dab2fd7&cache=v2)
-
 # 🥇경력
 
 - 선린인터넷고등학교 정보보호과 재학
@@ -24,9 +19,6 @@
 - 2019 제 5회 선린톤 은상
 - 2020 선린 IoT 경진대회 동상
 - **선린인터넷고등학교 정보보호과 공식 웹 개발팀 [Jungvengers](https://github.com/jungvengers) 리더**
-
-
-</details>
 
 ### 제 [Notion](https://www.notion.so/ed0adc6b5344424d9fae1bc3fcc60a80)과 [Tistory](https://code-yeongyu.tistory.com)도 읽어보세요!
 
