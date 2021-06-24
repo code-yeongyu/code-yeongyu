@@ -22,8 +22,11 @@
 
 ### 제 [Notion](https://www.notion.so/ed0adc6b5344424d9fae1bc3fcc60a80)과 [Tistory](https://code-yeongyu.tistory.com)도 읽어보세요!
 
+# Cards
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=code-yeongyu&count_private=true&show_icons=true&include_all_commits=true)  
-[![trophy](https://github-profile-trophy.vercel.app/?username=code-yeongyu&theme=onedark)](https://github.com/code-yeongyu/github-profile-trophy)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=code-yeongyu&theme=flat&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcode-yeongyu&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=today+%2F+total&edge_flat=false&include_all_commits=true)](https://hits.seeyoufarm.com)
