@@ -16,7 +16,7 @@
   - **카페 무인 주문 및 자율주행 기반 서빙 솔루션 프로젝트 기획, PM, 연구 및 개발**
 - 고교 최초 해킹동아리 Layer7 19기 부부장
 
-### 제 [Notion](https://www.notion.so/ed0adc6b5344424d9fae1bc3fcc60a80)과 [Tistory](https://code-yeongyu.tistory.com)도 읽어보세요!
+### 제 [Notion](https://thegreatyeongyu.notion.site/190e44e8b10a49849fc9165866ba8b41)과 [Tistory](https://code-yeongyu.tistory.com)도 읽어보세요!
 
 # Cards
 
