@@ -8,7 +8,7 @@
 
 # 🥇 Careers
 
-- [포켓레슨](https://pocketlesson.com/) 백엔드 엔지니어 (2021.08-)
+- [포켓레슨](https://pocketlesson.com/) 백엔드 엔지니어 (2021.08-2022.02)
 - **과학기술정보통신부 주관 SW 마에스트로 11기 수료** (2020.05-2020.12)
 
 ### 제 [Notion](https://thegreatyeongyu.notion.site/190e44e8b10a49849fc9165866ba8b41)과 [Tistory](https://code-yeongyu.tistory.com)도 읽어보세요!
