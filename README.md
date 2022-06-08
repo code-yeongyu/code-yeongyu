@@ -8,8 +8,9 @@
 
 # 🥇 Careers
 
-- [KrustUniverse](https://krustuniverse.com/) Software Engineer (2022.04 - )
-- [PocketLesson](https://pocketlesson.com/) 백엔드 엔지니어 (2021.08 - 2022.02)
+- [StyleShare](https://www.styleshare.kr/) Software Engineer (2022.06 - )
+- [KrustUniverse](https://krustuniverse.com/) Software Engineer (2022.04 - 2022.06)
+- [PocketLesson](https://pocketlesson.com/) Software Engineer (2021.08 - 2022.02)
 - **과학기술정보통신부 주관 SW 마에스트로 11기 수료** (2020.05-2020.12)
 
 ### 제 [Notion](https://thegreatyeongyu.notion.site/190e44e8b10a49849fc9165866ba8b41)과 [Tistory](https://code-yeongyu.tistory.com)도 읽어보세요!
