@@ -11,7 +11,6 @@
 ## 🥇 Careers
 
 - [Musinsa](https://www.musinsa.com) / [StyleShare](https://www.styleshare.kr/)  Software Engineer (2022.06 - )
-- [KrustUniverse](https://krustuniverse.com/) Software Engineer (2022.04 - 2022.06)
 - [PocketLesson](https://pocketlesson.com/) Software Engineer (2021.08 - 2022.02)
 - 과학기술정보통신부 주관 [SW 마에스트로](https://www.swmaestro.org) 11기 수료 (2020.05-2020.12)
 
