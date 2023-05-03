@@ -16,7 +16,7 @@
 
 ## 🔍 More of me
 
-- [Notion](https://thegreatyeongyu.notion.site/190e44e8b10a49849fc9165866ba8b41)
+- [자세히 보기](https://yeongyu.super.site/)
 - [Blog](https://code-yeongyu.tistory.com)
 - [Twitter (@yeon_gyu_kim)](https://twitter.com/yeon_gyu_kim)
 - [Instagram (@yeon.gyu.kim)](https://instagram.com/yeon.gyu.kim)
