@@ -19,5 +19,3 @@
 
 - [자세히 보기](https://yeongyu.super.site/)
 - [Blog](https://code-yeongyu.tistory.com)
-- [Twitter (@yeon_gyu_kim)](https://twitter.com/yeon_gyu_kim)
-- [Instagram (@yeon.gyu.kim)](https://instagram.com/yeon.gyu.kim)
