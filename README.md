@@ -10,7 +10,3 @@
 - [Musinsa](https://www.musinsa.com) / [StyleShare](https://www.styleshare.kr/)  Software Engineer (2022.06 - 2023.04)
 - [PocketLesson](https://pocketlesson.com/) Software Engineer (2021.08 - 2022.02)
 - Ministry of Science and ICT of South Korea - [SW Maestro](https://www.swmaestro.org) 11th Cohort (2020.05 - 2020.12)
-
-## 🔍 More of me
-
-- [Korean Blog](https://code-yeongyu.tistory.com)
