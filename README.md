@@ -1,3 +1,5 @@
+![Github Stats](https://githubcard.com/code-yeongyu.svg?d=70ygov7B)
+
 ## Technology.
 
 - Building the products you use every day. Making my mark.
