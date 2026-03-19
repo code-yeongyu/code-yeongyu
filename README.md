@@ -6,7 +6,7 @@
 
 ## 📬 Contact
 
-- ✉️ [code.yeon.gyu@gmail.com](mailto:code.yeon.gyu@gmail.com)
+- ✉️ [public.kim.yeon.gyu@gmail.com](mailto:public.kim.yeon.gyu@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/y30ngyu)
 
 ## 🥇 Careers
