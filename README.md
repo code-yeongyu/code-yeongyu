@@ -4,6 +4,11 @@
 - Solving real problems with technology. Yours and mine.
 - Coding obsessively. Building with joy.
 
+## 📬 Contact
+
+- ✉️ [code.yeon.gyu@gmail.com](mailto:code.yeon.gyu@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/y30ngyu)
+
 ## 🥇 Careers
 
 - [Sionic AI](https://sionic.ai/) Software Engineer (2026.03 - Present)
